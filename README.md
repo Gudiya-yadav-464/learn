@@ -10,10 +10,11 @@ rm dir - r = remove drectory
 
 pwd - check present working dir
 
--rw-rw-rw- 1 codespace codespace 0 Feb 15 11:40 ReadME.md
--rw-rw-rw- 1 codespace codespace 0 Feb 15 12:00 test.sh
 
 
+## Prompt History
+
+```bash
 
 Gudiya-yadav-464 ➜ /workspaces/learn (main) $ ls
 README.md
@@ -82,3 +83,5 @@ total 0
 -rw-rw-rw- 1 codespace codespace 0 Feb 15 11:40 ReadME.md
 -rw-rw-rw- 1 codespace codespace 0 Feb 15 12:00 test.sh
 @Gudiya-yadav-464 ➜ /workspaces/learn (main) $ 
+
+```
